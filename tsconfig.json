@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipDefaultLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "out/",
+    "rootDir": "src/",
+    "resolveJsonModule": true
+  },"include": ["src/**/*"]
+}
